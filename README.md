@@ -24,7 +24,8 @@ This project is a real-time Face Detection and Recognition system using Python a
    - This will open the webcam and collect your face data.  
    - You will be asked to enter your name.  
    - The system captures multiple images of your face.  
-   - Face data is stored in the `face_dataset/` folder.  
+   - Face data is stored in the `face_dataset/` folder.
+   - The face_dataset folder will be automatically created when running face_data.py.
 
 ---
 
